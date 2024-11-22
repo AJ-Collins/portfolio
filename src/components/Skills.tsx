@@ -4,15 +4,15 @@ const Skills = () => {
   const skills = [
     {
       category: 'Frontend',
-      items: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS', 'Redux'],
+      items: ['React', 'TypeScript', 'Next.js', 'Tailwind CSS'],
     },
     {
       category: 'Backend',
-      items: ['Node.js', 'Python', 'PostgreSQL', 'MongoDB', 'GraphQL'],
+      items: ['Laravel', 'Node.js', 'Python', 'PostgreSQL', 'MongoDB', 'GraphQL'],
     },
     {
       category: 'DevOps',
-      items: ['Docker', 'AWS', 'CI/CD', 'Kubernetes', 'Linux'],
+      items: ['Docker', 'AWS', 'CI/CD', 'Linux'],
     },
     {
       category: 'Tools',

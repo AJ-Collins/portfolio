@@ -46,7 +46,7 @@ const Projects = () => {
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured Projects</h2>
           <div className="h-1 w-20 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mb-8"></div>
           <p className="text-gray-400 text-lg">
-            Explore my latest work in web development, blockchain, and artificial intelligence
+            Explore my latest work in web development and artificial intelligence
           </p>
         </div>
 

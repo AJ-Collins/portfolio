@@ -3,8 +3,8 @@ import { Code2, Rocket, Users, Coffee } from 'lucide-react';
 
 const About = () => {
   const stats = [
-    { icon: <Code2 className="w-6 h-6" />, value: '5+', label: 'Years Experience' },
-    { icon: <Rocket className="w-6 h-6" />, value: '50+', label: 'Projects Completed' },
+    { icon: <Code2 className="w-6 h-6" />, value: '3+', label: 'Years Experience' },
+    { icon: <Rocket className="w-6 h-6" />, value: '8+', label: 'Projects Completed' },
     { icon: <Users className="w-6 h-6" />, value: '20+', label: 'Happy Clients' },
     { icon: <Coffee className="w-6 h-6" />, value: '∞', label: 'Coffee Cups' },
   ];

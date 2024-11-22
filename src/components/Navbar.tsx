@@ -74,7 +74,7 @@ const Navbar = () => {
           {/* Social Links */}
           <div className="hidden md:flex items-center gap-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/AJ-Collins" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -83,7 +83,7 @@ const Navbar = () => {
               <Github className="w-5 h-5" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://linkedin.com/in/collins-kiprotich-2708672a5" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"
@@ -92,7 +92,7 @@ const Navbar = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="mailto:contact@example.com"
+              href="kiprocolloaj254@gmail.com"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="Email"
             >
@@ -131,7 +131,7 @@ const Navbar = () => {
             ))}
             <div className="flex items-center gap-4 pt-4 border-t border-gray-700 mt-4">
               <a 
-                href="https://github.com" 
+                href="https://github.com/AJ-Collins" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -140,7 +140,7 @@ const Navbar = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a 
-                href="https://linkedin.com" 
+                href="https://linkedin.com/in/collins-kiprotich-2708672a5" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
@@ -149,7 +149,7 @@ const Navbar = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="mailto:contact@example.com"
+                href="kiprocolloaj254@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >

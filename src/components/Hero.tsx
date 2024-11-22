@@ -11,11 +11,11 @@ const Hero = () => {
               <h2 className="text-gray-400 text-lg">Hi there! I'm</h2>
               <h1 className="text-5xl md:text-6xl font-bold">
                 <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text">
-                  John Doe
+                  Collins Kiprotich
                 </span>
               </h1>
               <h2 className="text-3xl md:text-4xl font-semibold text-gray-200">
-                Full Stack Developer
+                Software Engineer 
               </h2>
             </div>
             
@@ -33,13 +33,13 @@ const Hero = () => {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <div className="flex items-center gap-4 text-gray-400">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://github.com/AJ-Collins" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://linkedin.com/in/collins-kiprotich-2708672a5" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   <Linkedin className="w-6 h-6" />
                 </a>
-                <a href="mailto:contact@example.com" className="hover:text-white transition-colors">
+                <a href="kiprocolloaj254@gmail.com" className="hover:text-white transition-colors">
                   <Mail className="w-6 h-6" />
                 </a>
               </div>
@@ -51,7 +51,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse blur-2xl opacity-20"></div>
               <div className="relative rounded-full overflow-hidden border-2 border-gray-800">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=1000"
+                  src="https://unsplash.com/photos/a-man-sitting-at-a-table-using-a-laptop-computer-l_p4pay8CTM"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
