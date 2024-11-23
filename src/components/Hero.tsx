@@ -51,7 +51,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 animate-pulse blur-2xl opacity-20"></div>
               <div className="relative rounded-full overflow-hidden border-2 border-gray-800">
                 <img
-                  src="https://unsplash.com/photos/a-man-sitting-at-a-table-using-a-laptop-computer-l_p4pay8CTM"
+                  src="https://images.unsplash.com/photo-1719937050792-a6a15d899281?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
