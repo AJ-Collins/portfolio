@@ -92,7 +92,7 @@ const Navbar = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a 
-              href="kiprocolloaj254@gmail.com"
+              href="mailto:kiprocolloaj254@gmail.com"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="Email"
             >
@@ -149,7 +149,7 @@ const Navbar = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="kiprocolloaj254@gmail.com"
+                href="mailto:kiprocolloaj254@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >
