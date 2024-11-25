@@ -3,37 +3,37 @@ import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
   {
-    title: "AI-Powered Task Manager",
-    description: "Smart task management platform using OpenAI's GPT for task prioritization and intelligent scheduling.",
-    tags: ["React", "Node.js", "OpenAI", "MongoDB"],
+    title: "Telegram Bidding Bot",
+    description: "An intelligent bot that automates bidding processes on Telegram, leveraging smart task prioritization and real-time scheduling.",
+    tags: ["Python"],
     image: "https://images.unsplash.com/photo-1661961112835-ca6f5811d2af?auto=format&fit=crop&q=80&w=2072",
-    github: "https://github.com",
+    github: "https://github.com/AJ-Collins/Bidding-bot",
     demo: "https://demo.com",
     featured: true
   },
   {
-    title: "E-Commerce Analytics Dashboard",
-    description: "Real-time analytics dashboard for e-commerce platforms with predictive sales forecasting.",
-    tags: ["TypeScript", "Next.js", "TailwindCSS", "PostgreSQL"],
+    title: "Student Registration in Laravel",
+    description: "A seamless student registration system designed with Laravel, featuring real-time validation and optimized for smooth data handling.",
+    tags: ["PHP", "Blade", "TailwindCSS", "HTML", "sqlite"],
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2070",
-    github: "https://github.com",
+    github: "https://github.com/AJ-Collins/Laravel_Student_Registration",
     demo: "https://demo.com"
   },
   {
-    title: "Blockchain Voting System",
-    description: "Secure and transparent voting system built on Ethereum blockchain with smart contracts.",
-    tags: ["Solidity", "Web3.js", "React", "Ethereum"],
+    title: "Machine Learning Trained Trading System(pyquotex)",
+    description: "A sophisticated trading system powered by machine learning algorithms, enabling predictive analytics for smarter investment decisions.",
+    tags: ["Python"],
     image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?auto=format&fit=crop&q=80&w=2070",
-    github: "https://github.com",
+    github: "https://github.com/AJ-Collins/pyquotex",
     demo: "https://demo.com",
     featured: true
   },
   {
-    title: "Real-Time Collaboration Tool",
-    description: "WebSocket-based collaboration platform for real-time document editing and team communication.",
-    tags: ["Socket.io", "Express", "Redis", "React"],
+    title: "Mpesa STK Push",
+    description: "An integrated solution for Mpesa payments, providing seamless STK push transactions with robust API support and real-time updates.",
+    tags: ["Node.js", "Express", "HTML", "Javascript", "CSS"],
     image: "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&q=80&w=2094",
-    github: "https://github.com",
+    github: "https://github.com/AJ-Collins/mpesa_stk_push",
     demo: "https://demo.com"
   }
 ];

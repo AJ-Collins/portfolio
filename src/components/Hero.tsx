@@ -39,7 +39,11 @@ const Hero = () => {
                 <a href="https://linkedin.com/in/collins-kiprotich-2708672a5" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   <Linkedin className="w-6 h-6" />
                 </a>
-                <a href="kiprocolloaj254@gmail.com" className="hover:text-white transition-colors">
+                <a href="https://mail.google.com/mail" 
+                className="hover:text-white transition-colors"
+                rel="noopener noreferrer" 
+                target="_blank"
+                >
                   <Mail className="w-6 h-6" />
                 </a>
               </div>
