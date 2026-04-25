@@ -34,9 +34,13 @@ export default function Navbar() {
       }`}
     >
       <div className="container mx-auto flex items-center justify-between h-16 px-4">
-        <button onClick={() => scrollTo("hero")} className="font-heading text-lg font-bold tracking-tight text-foreground">
-          CK<span className="text-primary">.</span>
-        </button>
+        <button onClick={() => scrollTo("hero")} className="flex items-center">
+  <img
+    src="/logo.png"
+    alt="Collins Kiprotich Logo"
+    className="h-10 w-auto object-contain"
+  />
+</button>
 
         {/* Desktop */}
         <div className="hidden md:flex items-center gap-8">

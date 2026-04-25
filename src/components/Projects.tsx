@@ -93,6 +93,16 @@ const projects: Project[] = [
     demo: "https://ivory-suite-showcase.lovable.app",
   },
   {
+    name: "Elimu AI – Personalized African Educational Assistant",
+    description:
+      "An AI-powered educational platform designed for East African students, delivering personalized learning in English, Swahili, and Sheng. Elimu AI simplifies complex subjects using culturally relevant analogies (like matatus for physics), interactive curriculum tracking, and dynamic practice generation.",
+    tech: ["React", "TypeScript", "Vite", "Tailwind CSS", "Framer Motion", "Google Gemini AI"],
+    category: "AI / EdTech",
+    github: "https://github.com/AJ-Collins",
+    image: "/projects/elimu-ai.png",
+    demo: "https://elimu-ai-tau.vercel.app",
+  },
+  {
     name: "Moiz Boutique Ltd – Retail",
     description:
       "A modern boutique website for Moiz Boutique Ltd in Shanzu, Mombasa, showcasing African fashion, jewellery, fabrics, and authentic Kenyan souvenirs. The platform features curated collections, featured products, customer reviews, location details, and an enquiry system with delivery options.",
