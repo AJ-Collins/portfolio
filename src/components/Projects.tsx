@@ -54,6 +54,15 @@ const projects: Project[] = [
     demo: "https://toprichoils.com"
   },
   {
+    name: "silvie.youwel.app – AI Voice Assistant",
+    description: "An intelligent AI voice assistant platform designed to provide secure, natural, and accessible digital assistance for seniors. Supports both English and German with real-time voice interaction, speech-to-text, text-to-speech, smart conversations, and seamless communication tools focused on privacy, accessibility, and ease of use.",
+    tech: ["Whisper", "TTS", "React.js", "Tailwind CSS", "JavaScript", "Python", "LLM", "Docker", "PostgreSQL", "Socket.io"],
+    category: "Web",
+    github: "https://github.com/AJ-Collins",
+    image: "/projects/silvie_ai.png",
+    demo: "https://silvie.youwel.app"
+  },
+  {
     name: "Coast Safari Hotel",
     description:
       "A modern hotel website for Coast Safari Hotel, a boutique 3-star hotel in Mombasa CBD. The platform showcases rooms and suites, amenities, restaurant offerings, guest reviews, location details, and includes a booking inquiry form to streamline reservations for business and leisure travelers.",
@@ -64,9 +73,9 @@ const projects: Project[] = [
     demo: "https://coast-safari-web.lovable.app",
   },
   {
-    name: "youwel.app – AI voice assistant",
-    description: "A modern, data-secure AI smartphone assistant platform for active seniors in Europe. Provides solutions across health, family, daily tasks, home, security, finances, and travel. The platform emphasizes user-friendly design, high data protection, and fair employment conditions for AI trainers in developing countries.",
-    tech: ["Vue.js", "Tailwind CSS", "JavaScript", "Node.js", "Mysql", "Docker", "Mongo", "Socket.io"],
+    name: "youwel.app – Senior Meet Platform",
+    description: "A modern and secure meet platform designed for people aged 60+ in Germany and Africa. Built to foster better connections, communication, and community engagement through an easy-to-use interface, simple navigation, and secure real-time interactions. The platform focuses on accessibility, privacy, and a comfortable digital experience for seniors.",
+    tech: ["Vue.js", "Tailwind CSS", "JavaScript", "Node.js", "MySQL", "Docker", "MongoDB", "Socket.io"],
     category: "Web",
     github: "https://github.com/AJ-Collins",
     image: "/projects/youwel_app.png",
@@ -121,6 +130,15 @@ const projects: Project[] = [
     github: "https://github.com/AJ-Collins",
     image: "/projects/pontoon_residence.png",
     demo: "https://pontoon-coastal-haven.lovable.app/"
+  },
+  {
+    name: "Sauti Connect – Company & Investor Marketplace",
+    description: "A professional company-investor marketplace platform connecting businesses with investors across Africa and globally. Enables companies to post funding-ready projects while allowing investors to discover opportunities, review project details, track funding progress, and connect securely through a modern and transparent workflow. Supports multi-currency funding, secure communication, and streamlined project discovery.",
+    tech: ["React.js", "Tailwind CSS", "JavaScript", "Node.js", "MySQL", "Docker", "Socket.io"],
+    category: "Web",
+    github: "https://github.com/AJ-Collins",
+    image: "/projects/sauti_connect.png",
+    demo: "https://www.sauticonnect.africa/"
   },
   {
     name: "ROOFS – London Roofing Specialists",
